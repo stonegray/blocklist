@@ -1,0 +1,2 @@
+# blocklist
+Adblock hosts list
