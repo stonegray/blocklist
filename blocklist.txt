@@ -1,0 +1,5 @@
+0.0.0.0 i18n-pglstatp.com
+0.0.0.0 bytegoofy.com
+
+# from adblock lists
+0.0.0.0 bidmachine.io
